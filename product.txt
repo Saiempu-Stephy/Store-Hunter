@@ -1,0 +1,6 @@
+product1 	20
+product2 	30
+product3 	40
+product4 	50
+product5 	60
+

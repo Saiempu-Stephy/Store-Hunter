@@ -1,0 +1,7 @@
+product1 		5 			shop2
+product2 		3 			shop1
+product3 		6 			shop4
+product3 		10 			shop3
+product4 		2 			shop4
+product5 		3 			shop5
+product5 		7 			shop4
